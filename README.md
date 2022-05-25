@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ebimo</h1>
-<h3 align="center">I build solutions specific for web platform using top in-demand skills. I build stuffs using HTML, CSS, JavaScript with a blend of various libraries and frameworks like React(NextJS), Laravel. I also integrate database was per client using MYSQL.</h3>
+<h3 align="center">I aim to build solutions specific for web platform having built high level proficiency in top in-demand skills not limitied to HTML, CSS, JavaScript with a blend of various libraries and frameworks like React(NextJS), Laravel. I am also able to integrate database thereby creating a full fledged web application that is accessible across the globe.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebimo21&label=Profile%20views&color=0e75b6&style=flat" alt="ebimo21" /> </p>
 
